@@ -1,0 +1,5 @@
+venv/
+auto-py-to-exe/
+.idea/
+__pycache__/
+
