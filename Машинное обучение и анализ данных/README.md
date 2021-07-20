@@ -5,8 +5,8 @@
 
 6 courses:
 
-1. [Математика и Python для анализа данных](https://github.com/avtomato/Machine-learning-and-data-analysis/tree/master/Course-1-mathematics-and-python)
-2. [Обучение на размеченных данных](https://github.com/avtomato/Machine-learning-and-data-analysis/tree/master/Course-2-supervised-learning)
+1. Математика и Python для анализа данных
+2. Обучение на размеченных данных
 3. Поиск структуры в данных
 4. Построение выводов по данным
 5. Прикладные задачи анализа данных
